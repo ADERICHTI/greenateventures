@@ -1,0 +1,16 @@
+@charset "utf-8";
+#div {
+    background-color: #43663E;
+    color: #FFFFFF;
+}
+#div {
+    color: #5ADA52;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: larger;
+}
+#div2 {
+    background-color: #43663E;
+}
+#div3 {
+    background-color: #486D44;
+}

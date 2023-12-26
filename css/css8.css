@@ -1,0 +1,14 @@
+@charset "utf-8";
+#div {
+    background-image: url(../images/WhatsApp%20Image%202023-12-04%20at%2006.34.51_8141a20e.jpg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,255,44,1.00) 100%);
+    background-image: url(../images/WhatsApp%20Image%202023-12-04%20at%2006.34.51_8141a20e.jpg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,255,44,1.00) 100%);
+    background-image: url(../images/WhatsApp%20Image%202023-12-04%20at%2006.34.51_8141a20e.jpg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(0,255,44,1.00) 100%);
+    background-image: url(../images/WhatsApp%20Image%202023-12-04%20at%2006.34.51_8141a20e.jpg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(0,255,44,1.00) 100%);
+    color: #FFFFFF;
+}
+#div2 {
+    background-color: #486D44;
+}
+#div3 {
+    background-color: #486D44;
+}

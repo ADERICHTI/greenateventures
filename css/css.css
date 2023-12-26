@@ -1,0 +1,21 @@
+@charset "utf-8";
+#div {
+    font-family: "Segoe UI", "Segoe UI Black", "Yu Gothic", "Yu Gothic Light", "Yu Gothic Medium", Roman, Modern, "Lucida Sans Unicode", "Lucida Handwriting", "Jurassic Park", "Juice ITC", Jokerman, "HARD ROCK", "Harlow Solid Italic", "High Tower Text", "Hobo Std", a bug
+'s life - debugged, "A Charming Font Leftleaning", "A Charming Font Superexpanded", "A Charming Font Outline", AcadEref, "Adobe Caslon Pro", "Adobe Caslon Pro Bold", "Adobe Devanagari", "Adobe Garamond Pro", "Adobe Garamond Pro Bold", "Agency FB"
+'s life - debugged, "A Charming Font Leftleaning", "A Charming Font Superexpanded", "A Charming Font Outline", AcadEref, "Adobe Caslon Pro", "Adobe Caslon Pro Bold", "Adobe Devanagari", "Adobe Garamond Pro", "Adobe Garamond Pro Bold", "Agency FB";
+    color: #003F03;
+    font-style: normal;
+    font-size: small;
+}
+#div {
+    color: #004303;
+    font-style: normal;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: small;
+    text-align: justify;
+}
+#div2 {
+    width: auto;
+    text-align: center;
+    background-color: #486D44;
+}
