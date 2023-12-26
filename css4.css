@@ -1,0 +1,8 @@
+@charset "utf-8";
+#div5 {
+    background-image: url(../images/heading.jpg);
+    color: #FFFFFF;
+    font-size: xx-large;
+    width: 1000px;
+    min-height: 599px;
+}
